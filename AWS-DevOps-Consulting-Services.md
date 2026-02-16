@@ -38,7 +38,40 @@ Comprehensive AWS cost assessment and optimization for new or existing environme
 
 ---
 
-## ☁️ 2. AWS Well-Architected Review & Implementation
+## 🏗️ 2. Infrastructure as Code (IaC) & Automation
+
+**Service Overview**
+Production-grade infrastructure automation using both AWS-native and open-source IaC tools.
+
+**What We Deliver**
+- **Terraform**: Modular, multi-cloud architecture
+- **AWS CloudFormation**: Native AWS resource management
+- **AWS CDK**: Type-safe infrastructure with familiar languages
+- Multi-account setup & governance
+- Environment separation (Dev/Stage/Prod)
+- Secure state management & locking
+- CI/CD validation & policy checks
+- Automated provisioning pipelines
+- Infrastructure drift detection & remediation
+- Cross-platform compatibility strategy
+
+**Tools Used**
+- **Open Source**: Terraform, Terragrunt, Pulumi
+- **AWS Native**: CloudFormation, CDK (TypeScript/Python)
+- **State Management**: S3, DynamoDB, Terraform Cloud
+- **Security**: tfsec, Checkov, cfn-nag, cdk-nag
+- **CI/CD**: GitHub Actions, GitLab CI, AWS CodePipeline
+
+**Timeline**
+| Scope | Duration |
+|-------|----------|
+| Single Tool Implementation | 1-2 Weeks |
+| Multi-Tool Strategy | 2-3 Weeks |
+| Enterprise Multi-Account | 4-6 Weeks |
+
+---
+
+## ☁️ 3. AWS Well-Architected Review & Implementation
 
 **Service Overview**
 Complete AWS Well-Architected Framework assessment and remediation across all 6 pillars.
@@ -68,7 +101,7 @@ Complete AWS Well-Architected Framework assessment and remediation across all 6 
 
 ---
 
-## 🚀 3. DevOps Pipeline & CI/CD Implementation
+## 🚀 4. DevOps Pipeline & CI/CD Implementation
 
 **Service Overview**
 End-to-end DevOps transformation with modern CI/CD pipelines and GitOps workflows.
@@ -99,7 +132,7 @@ End-to-end DevOps transformation with modern CI/CD pipelines and GitOps workflow
 
 ---
 
-## 🏢 4. AWS Landing Zone & Multi-Account Strategy
+## 🏢 5. AWS Landing Zone & Multi-Account Strategy
 
 **Service Overview**
 Enterprise-grade AWS foundation with security, governance, and scalability built-in.
@@ -130,7 +163,7 @@ Enterprise-grade AWS foundation with security, governance, and scalability built
 
 ---
 
-## 🛡️ 5. AWS Security & Compliance Hardening
+## 🛡️ 6. AWS Security & Compliance Hardening
 
 **Service Overview**
 Comprehensive security assessment and implementation of defense-in-depth strategies.
@@ -161,7 +194,7 @@ Comprehensive security assessment and implementation of defense-in-depth strateg
 
 ---
 
-## 📊 6. Monitoring & Observability Platform
+## 📊 7. Monitoring & Observability Platform
 
 **Service Overview**
 Production-ready monitoring, logging, and alerting for cloud-native applications.
@@ -192,7 +225,7 @@ Production-ready monitoring, logging, and alerting for cloud-native applications
 
 ---
 
-## 🔄 7. Cloud Migration & Modernization
+## 🔄 8. Cloud Migration & Modernization
 
 **Service Overview**
 Strategic migration from on-premises or other clouds to AWS with application modernization.
@@ -223,7 +256,7 @@ Strategic migration from on-premises or other clouds to AWS with application mod
 
 ---
 
-## 🎯 8. Kubernetes & Container Platform
+## 🎯 9. Kubernetes & Container Platform
 
 **Service Overview**
 Production-ready Kubernetes platform on AWS EKS with enterprise-grade features.
