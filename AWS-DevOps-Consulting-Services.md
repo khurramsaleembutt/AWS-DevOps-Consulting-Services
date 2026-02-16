@@ -29,12 +29,19 @@ Comprehensive AWS cost assessment and optimization for new or existing environme
 - Kubecost (for EKS), Infracost
 - Terraform cost estimation
 
-**Timeline**
-| Environment Size | Duration | Expected Savings |
-|------------------|----------|------------------|
-| Small (< $5K/month) | 3-5 Days | 15-30% |
-| Medium (< $50K/month) | 1-2 Weeks | 20-40% |
-| Enterprise (> $50K/month) | 2-4 Weeks | 25-50% |
+**Timeline & Resource Requirements (Lean Strategy)**
+
+| Size | Existing Setup | New Setup | Team Size (Lean) | Expected Savings |
+|------|----------------|-----------|------------------|------------------|
+| **Small** (< $5K/month) | 25-35 hrs | 15-25 hrs | 1 (Architect-led) | 15-30% |
+| **Medium** (< $50K/month) | 60-100 hrs | 50-80 hrs | 1-2 max | 20-40% |
+| **Enterprise** (> $50K/month) | 120-180 hrs (phased) | 100-150 hrs (phased) | 2 max | 25-50% |
+
+**Lean Strategy Benefits**
+- **Architect-led approach**: Senior expertise drives efficiency
+- **Phased delivery**: Enterprise projects broken into manageable phases
+- **Minimal overhead**: Maximum value delivery with lean teams
+- **Faster ROI**: Reduced hours mean quicker cost savings realization
 
 ---
 
@@ -247,12 +254,23 @@ Strategic migration from on-premises or other clouds to AWS with application mod
 - AWS Lambda, API Gateway
 - Terraform, CloudFormation
 
-**Timeline**
-| Migration Type | Duration |
-|----------------|----------|
-| Lift & Shift | 4-8 Weeks |
-| Re-platforming | 8-16 Weeks |
-| Re-architecting | 12-24 Weeks |
+**Timeline & Resource Requirements (Lean Delivery Model)**
+
+| Size | Lift & Shift | Re-platform | Re-architect (Phased) | Team Size (Lean) |
+|------|--------------|-------------|----------------------|------------------|
+| **Small** | 70-100 hrs | 120-180 hrs | 180-300 hrs | 1-2 engineers |
+| **Medium** | 150-220 hrs | 220-350 hrs | 350-600 hrs | 2 engineers |
+| **Enterprise** | 300-500 hrs | 500-900 hrs | 800-1500 hrs (phased) | 2-3 engineers |
+
+**Human Resources Breakdown**
+- **Lead Cloud Architect**: Migration strategy, architecture design
+- **Senior Migration Engineer**: Application assessment, implementation
+- **DevOps Engineer**: CI/CD, automation, deployment pipelines
+
+**Lean Delivery Benefits**
+- **Focused teams**: Smaller, specialized teams for faster delivery
+- **Phased approach**: Enterprise re-architecture delivered in phases
+- **Reduced overhead**: Minimal management layers, maximum execution
 
 ---
 
