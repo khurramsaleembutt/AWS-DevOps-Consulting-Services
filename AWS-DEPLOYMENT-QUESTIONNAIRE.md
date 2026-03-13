@@ -1,5 +1,19 @@
 # AWS Production Deployment - Developer Questionnaire
 
+**How to fill this form:**
+- For checkboxes: Add an `x` inside the brackets like this: `[x]` for selected items
+- For text answers: Replace the underscores `_______________` with your answer
+- For multi-line answers: Use the provided code blocks or add additional lines as needed
+- Save the file and send it back to the DevOps/SA team
+
+**Example:**
+```markdown
+- [x] Yes - Build command: npm run build
+- [ ] No
+
+- **Programming language:** Python 3.11
+```
+
 Please complete this checklist to help us deploy your application to AWS production environment. Answer all applicable questions with as much detail as possible.
 
 ---
